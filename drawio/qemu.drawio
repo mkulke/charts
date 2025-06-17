@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.6">
+  <diagram name="Page-1" id="zVJmqaSZYRWroS7J5lev">
+    <mxGraphModel dx="909" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nk6JqFLksEFIH9NkCz9n-1" value="RAM 2G" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6JqFLksEFIH9NkCz9n-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6JqFLksEFIH9NkCz9n-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6JqFLksEFIH9NkCz9n-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6JqFLksEFIH9NkCz9n-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;3G-2D&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6JqFLksEFIH9NkCz9n-7" value="128k BIOS&lt;br&gt;0x000e0000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6JqFLksEFIH9NkCz9n-8" value="256k BIOS&lt;br&gt;0xfffc0000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6JqFLksEFIH9NkCz9n-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;0 - 2GB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="265" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6JqFLksEFIH9NkCz9n-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;2 - 4GB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="345" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6JqFLksEFIH9NkCz9n-11" value="RAM 1G" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="330" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
